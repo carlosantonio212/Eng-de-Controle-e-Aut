@@ -1,5 +1,5 @@
 #calculo de media 
-print("digite o nome do aluno:")
+print("digite o nome do a:")
 nome = input()
 
 print("Digite a nota 1 do aluno:")
